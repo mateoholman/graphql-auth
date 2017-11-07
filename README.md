@@ -2,4 +2,4 @@
 
 A GraphQl based Authentication Demo
 
-**Updated 11/05/2017**
+**Updated 11/06/2017**
